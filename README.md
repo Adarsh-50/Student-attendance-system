@@ -7,5 +7,5 @@ A smart and efficient system to automate student attendance tracking with RFID t
 📊 Data Management: Organized storage for attendance records, reducing manual errors.
 🛠️ Technologies Used
 RFID module for tag scanning
-Microcontroller integration (mention specifics if applicable)
+Microcontroller integration 
 Backend for data storage and processing
