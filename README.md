@@ -9,4 +9,5 @@ A smart and efficient system to automate student attendance tracking with RFID t
 RFID module for tag scanning
 Microcontroller integration 
 Backend for data storage and processing.
+
  
